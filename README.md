@@ -1,4 +1,4 @@
-# Extreme_Sentiment_Ancient_Past
+# Measuring sentiment in political uses of the past #
 
 This code was used in support of the following research article:
 Bonacchi, Chiara; Witte, Jessica; Altaweel, Mark. 2024 (In Press). Political uses of the ancient past on social media are predominantly negative and extreme. <i>PLOS One</i>.
